@@ -1,5 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">ModernArtUI</string>
+    <string name="title_activity_main">ModernArtUI</string>
+    <string name="menu_item_more_info">More Information</string>
+    <string name="dialog_title">The Matrix</string>
+    <string name="dialog_message">You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland and I show you how deep the rabbit-hole goes</string>
+    <string name="dialog_ok">Visit MOMA</string>
+    <string name="dialog_no">Not Now</string>
 
 </resources>
